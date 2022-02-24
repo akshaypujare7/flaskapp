@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/test-build-deploy.yml)
+[![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/RohitD007/flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/RohitD007/flask/actions/workflows/test-build-deploy.yml)
 1. To Build with docker compose:
    docker compose up --build
 2. To run tests, Lint, and Coverage report use this command: pytest --pylint --cov
