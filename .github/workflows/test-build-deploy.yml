@@ -44,7 +44,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v3
         with:
-          images: akshaypujare7/apujare-flaskapp
+          images: akshaypujare7/ap288-flaskapp
 
       - name: Build and push
         uses: docker/build-push-action@v2
