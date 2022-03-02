@@ -1,3 +1,18 @@
 body {
-font-size: 200%;
+    font-family: Helvetica, "Helvetica Neue", sans-serif;
+}
+
+.darkblue{
+    color:darkblue;
+}
+
+.papyrus{
+    font-family: Papyrus, Helvetica, sans-serif;
+}
+.make_bigger{
+    font-size: 140%;
+}
+
+.carousel-inner{
+  height: auto;
 }

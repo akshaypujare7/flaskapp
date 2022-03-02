@@ -1,3 +1,6 @@
+# My website
+
+* [My APP](https://apujare-flask.herokuapp.com/)
 # Calculator Project Setup
 [![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/RohitD007/flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/RohitD007/flask/actions/workflows/test-build-deploy.yml)
 1. To Build with docker compose:
@@ -19,4 +22,3 @@
 
 .pylintrc is the config for pylint .coveragerc is the config for coverage setup.py is a config file for pytest
 
-[My App](https://rgd3-flask.herokuapp.com/)
