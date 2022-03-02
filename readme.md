@@ -1,6 +1,6 @@
 # My website
 
-* [My APP](https://apujare-flask.herokuapp.com/)
+* [My APP](https://ap288-flask.herokuapp.com/)
 # Calculator Project Setup
 [![Run Tests, Build Dockerfile, Run on Heroku](https://github.com/RohitD007/flask/actions/workflows/test-build-deploy.yml/badge.svg)](https://github.com/RohitD007/flask/actions/workflows/test-build-deploy.yml)
 1. To Build with docker compose:
